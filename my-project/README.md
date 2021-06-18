@@ -1,4 +1,5 @@
 # my-project
+一个非常干净的由create nuxt app生成的项目
 
 ## Build Setup
 
